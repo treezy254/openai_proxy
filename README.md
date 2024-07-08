@@ -1,4 +1,4 @@
-# OpenAI-like API for Running Open Source Models on Colab
+# OpenAI API
 
 This repository provides a simple and effective way to generate an OpenAI-like API for running open-source models locally using Google Colab.
 
