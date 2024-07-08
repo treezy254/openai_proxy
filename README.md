@@ -13,7 +13,7 @@ Follow these steps to set up and run the code on Google Colab:
 3. **Run the Setup Code**: Copy and paste the following code into a cell in the Colab notebook and execute it.
 
     ```bash
-    !wget -q https://raw.githubusercontent.com/Luxadevi/Ollama-Companion/main/install.sh && sudo chmod +x install.sh 2>&1 /dev/null
+    !wget -q https://raw.githubusercontent.com/treezy254/ollama-companion/master/install.sh && sudo chmod +x install.sh 2>&1 /dev/null
     # Sets up Latest version of Llama.cpp for quanting.
     # If You need to build a new one use the argument `-colab_compile`
     # Also interactive installer available use -interactive or -i
