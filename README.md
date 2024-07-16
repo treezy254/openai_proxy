@@ -8,7 +8,7 @@ Follow these steps to set up and run the code on Google Colab:
 
 1. **Open Google Colab**: Go to [Google Colab](https://colab.research.google.com/).
 
-2. **Create a New Notebook**: Click on "File" > "New Notebook".
+2. **Create a New Notebook**: Click on "File" > "New Notebook". 
 
 3. **Run the Setup Code**: Copy and paste the following code into a cell in the Colab notebook and execute it.
 
